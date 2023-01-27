@@ -23,9 +23,9 @@ Use python to implement common classic algorithms in cryptography, such as Vigen
 
 ## Reference
 
-[1] [Paar C ,  Pelzl J . Understanding Cryptography: A Textbook for Students and Practitioners[M]. Springer Publishing Company, Incorporated, 2010.]()
+[1] [Paar C ,  Pelzl J . Understanding Cryptography: A Textbook for Students and Practitioners[M]. Springer Publishing Company, Incorporated, 2010.](https://github.com/timerring/cryptography-codebase/blob/main/Book_sample/UnderstandingCryptography.pdf)
 
-[2] [Paar C ,  Pelzl J , 马小婷译.  深入浅出密码学: 常用加密技术原理与应用[M]. 北京：清华大学出版社,  2012.09.]()
+[2] [Paar C ,  Pelzl J , 马小婷译.  深入浅出密码学: 常用加密技术原理与应用[M]. 北京：清华大学出版社,  2012.09.](https://github.com/timerring/cryptography-codebase/blob/main/Book_sample/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E5%AF%86%E7%A0%81%E5%AD%A6.pdf)
 
 ## Tips
 
