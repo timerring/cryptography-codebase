@@ -1,0 +1,12 @@
+E:\python程序\venv\Scripts\python.exe E:/python程序/main.py
+Enter a string str1:
+deadbeef
+222 173 190 239 
+0xde 0xad 0xbe 0xef 
+b'3q2+7w=='
+Enter a string str2:
+4445414442454546
+DEADBEEF
+
+进程已结束，退出代码为 0
+

@@ -1,0 +1,7 @@
+E:\python代码\T2P1\venv\Scripts\python.exe E:/python代码/T2P1/main.py
+请用大写字母输入加密的内容：ABCDEFG
+请用大写字母输入密钥：ABCDEFG
+密文为： ACEGIKM
+解密后的内容为： ABCDEFG
+
+进程已结束，退出代码为 0

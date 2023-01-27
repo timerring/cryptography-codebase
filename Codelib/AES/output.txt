@@ -1,0 +1,11 @@
+E:\python代码\test02\venv\Scripts\python.exe
+plaintext input:I don't like deadbeef. 你呢？
+key input:1UO7ZnmwcT7KtScS2hAZV+aZ1Gk95HPK1EqcXT6rqoU=
+IV input:6GXIzJ0GD/76WkTtgmaDYQ==
+4920646f6e2774206c696b652064656164626565662e20e4bda0e591a2efbc9f10101010101010101010101010101010
+c0LWy2BUg949eMO+G8NgxUzKVNNFys8EzavYFhP0Tc/mZM/UVVe4E3b34cEyu1Ze
+not identical
+4920646f6e2774206c696b652064656164626565662e20e4bda0e591a2efbc9f
+I don't like deadbeef. 你呢？
+
+进程已结束，退出代码为 0

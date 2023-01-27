@@ -1,0 +1,9 @@
+E:\python\test02\venv\Scripts\python.exe
+plaintext:8787878787878787
+key1:133457799bbcdff1
+key2:0e329232ea6d0d73
+key3:133457799bbcdff1
+ciphertext: e98a0b8e59b3eeb7
+plaintext: 8787878787878787
+
+进程已结束，退出代码为 0

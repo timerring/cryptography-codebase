@@ -1,0 +1,44 @@
+Usage:
+	R - register a new user
+	L - login with an existing user
+	Q - exit
+
+Input command:R
+Input username:timerring
+Input password:i love cryptography
+User created successfully.
+Usage:
+	R - register a new user
+	L - login with an existing user
+	Q - exit
+
+Input command:L
+Input username:timerring
+Input password:i love cryptography
+User logged in successfully.
+Usage:
+	R - register a new user
+	L - login with an existing user
+	Q - exit
+
+Input command:L
+Input username:timerring
+Input password:i love cipher
+Password verification failed. Can not logged in.
+Usage:
+	R - register a new user
+	L - login with an existing user
+	Q - exit
+
+Input command:L
+Input username:Who
+Input password:i love cryptography
+Error: User Who does not exist.
+Usage:
+	R - register a new user
+	L - login with an existing user
+	Q - exit
+
+Input command:Q
+
+进程已结束，退出代码为 0

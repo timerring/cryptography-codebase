@@ -3,16 +3,16 @@ Use python to implement common classic algorithms in cryptography, such as Vigen
 
 > 用python实现密码学中的常用经典算法，例如Vigenere、3DES、RSA、ElGamal、Diffie-Hellman、RSA签名、ElGamal签名、HMAC、哈希算法、列移位、AES等等。
 
-| Types of cryptography | Code |
-| --------------------- | ---- |
-|                       |      |
-|                       |      |
-|                       |      |
-|                       |      |
-|                       |      |
-|                       |      |
-|                       |      |
-|                       |      |
-|                       |      |
-|                       |      |
+| Type | Code |
+| ---- | ---- |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
 
